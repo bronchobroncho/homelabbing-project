@@ -17,4 +17,6 @@ I have decided to start this project, as it has been an idea that has laid dorma
 practically BEGGING to be brought to fruition and i finally feel comfortable enough with my technological knowledge,
 and i feel that it is at a level where i can begin to understand some of the basic concepts of networking and cybersecurity
 that are needed if i intend on going into the field of networking/cybersecurity (which at the time of writing is my current 
-future career plan).
+future career plan). One of the biggest inspirations for this project are the Youtube channels Lois Rossman, LGR, Networkchuck,
+Michael MJD, and one of my biggest inspirations, Linus Tech Tips (most of whom i began watching when i was about the age of 10 i might add).
+
