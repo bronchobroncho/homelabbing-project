@@ -1,5 +1,6 @@
 # homelabbing-project
-this Github repository documents my homelabbing journey, building a server rack, from ground zero, to a functioning (and hopefully well polished) home networking solution.
+this Github repository documents my homelabbing journey, building a server rack, 
+from ground zero, to a functioning (and hopefully well polished) home networking solution.
 
 The plan
 create a completely self sufficient, and well structured, home network, built on top of an old second-hand office PC.
