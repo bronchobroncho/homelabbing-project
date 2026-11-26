@@ -16,7 +16,7 @@ ALSO OPTIONAL:
 
 DAS:
 
-<img width="1144" height="374" alt="image" src="https://github.com/user-attachments/assets/5857d906-656f-4ed8-afcf-2b4be786d583" />
+<img width="1145" height="470" alt="image" src="https://github.com/user-attachments/assets/3e0c618f-c6c3-49d9-9dc8-ddc1adedf1a9" />
 
 I picked this specific DAS because of its hardware RAID support, and also because of its small form factor, which is important with the planned 10 inch 6-8U rack enclosure.
 the reasoning behind me picking a 2 bay DAS instead of a larger capacity (like a 4 bay) is mostly due to budget constraints for the project (as stated above). I will continue
